@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Ether",
+  "base_artist": "Ave Mujica",
+  "createdAt": "2025-12-18T08:48:07.999721Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ether",
+      "artist": "Cake Pop feat. Dylan Brady & Ravenna Golden",
+      "has_synced": true,
+      "path": "select/01_Ether_Cake_Pop_feat._Dylan_Brady_&_Ravenna_Golden.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ether",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/02_Ether_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ether",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/03_Ether_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "When Under Ether",
+      "artist": "PJ Harvey",
+      "has_synced": true,
+      "path": "select/04_When_Under_Ether_PJ_Harvey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ether",
+      "artist": "Electric President",
+      "has_synced": true,
+      "path": "select/05_Ether_Electric_President.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Under Ether",
+      "artist": "Roland Orzabal",
+      "has_synced": false,
+      "path": "select/06_Under_Ether_Roland_Orzabal.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ether",
+      "artist": "Gang of Four",
+      "has_synced": true,
+      "path": "select/07_Ether_Gang_of_Four.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ether",
+      "artist": "Bloody Hammers",
+      "has_synced": false,
+      "path": "select/08_Ether_Bloody_Hammers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "In The Ether",
+      "artist": "The Who",
+      "has_synced": true,
+      "path": "select/09_In_The_Ether_The_Who.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ether",
+      "artist": "Make Them Suffer",
+      "has_synced": true,
+      "path": "select/10_Ether_Make_Them_Suffer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ether",
+      "artist": "Gang of Four",
+      "has_synced": true,
+      "path": "select/11_Ether_Gang_of_Four.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ether",
+      "artist": "Nothingface",
+      "has_synced": true,
+      "path": "select/12_Ether_Nothingface.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ether",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/13_Ether_Nas.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ether (2001)",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/14_Ether_(2001)_Nas.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Breathing Underwater (Ether Remix)",
+      "artist": "Hollywood Principle",
+      "has_synced": true,
+      "path": "select/15_Breathing_Underwater_(Ether_Remix)_Hollywood_Principle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ether",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/pl_01_Ether_Ave_Mujica.txt"
+    }
+  ]
+}
